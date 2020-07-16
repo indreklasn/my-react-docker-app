@@ -1,3 +1,17 @@
+indreklasn/my-react-docker-app is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial
+
+<a href="https://tracking.gitads.io/?repo=indreklasn+my-react-docker-app"> <img src="https://images.gitads.io/indreklasn+my-react-docker-ap" alt="GitAds"/> </a>
+
+_____
+
+Here’s How You Can Use Docker With React
+
+This article explains how you can combine a Docker and React application
+
+https://medium.com/@indreklasn/heres-how-you-can-use-docker-with-create-react-app-3ee3a972b04e
+
+![](https://miro.medium.com/max/1400/1*ovRuAuqPf4r2xpiWh71rUg.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
