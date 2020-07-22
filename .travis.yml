@@ -8,3 +8,8 @@ before_install:
 
 script:
   - docker run -e CI=true indreklasn/my-react-docker-apps npm run test
+
+after_success:
+  - docker build -t indreklasn/my-react-docker-app .
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
+  - docker push indreklasn/my-react-docker-app
