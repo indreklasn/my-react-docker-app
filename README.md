@@ -1,6 +1,6 @@
-indreklasn/my-react-docker-app is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial
+my-react-docker-app is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial
 
-<a href="https://tracking.gitads.io/?repo=indreklasn+my-react-docker-app"> <img src="https://images.gitads.io/indreklasn+my-react-docker-ap" alt="GitAds"/> </a>
+<a href="https://tracking.gitads.io/?repo=simple-trello"> <img src="https://images.gitads.io/simple-trello" alt="GitAds"/> </a>
 
 _____
 
